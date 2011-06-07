@@ -1,5 +1,5 @@
 module Coffee
   module Filter
-    VERSION = "0.1.1.wct"
+    VERSION = "0.1.1.1"
   end
 end
