@@ -9,6 +9,9 @@ Haml:
     stuff
     :coffeescript
       alert 'here'
+      
+    :coffee
+      alert 'everywhere'
 
 Html:
 
@@ -22,6 +25,8 @@ Html:
 
       //]]>
     </script>
+    
+    alert('everywhere');
   </div>
 
 === Installation
